@@ -17,19 +17,19 @@ Desarrollador backend con experiencia en la creación de aplicaciones web y APIs
 Aplicación para la gestión de inventarios con:
 - **Backend**: Spring Boot para una API RESTful robusta.
 - **Frontend**: Angular 17, organizado por módulos para eficiencia y escalabilidad.
-- [Repositorio del proyecto](#) <!-- Agrega aquí el link del repositorio si lo tienes público -->
+- [Repositorio del proyecto](https://github.com/trujisxd1/Gestion-De-Inventario/tree/backend) <!-- Agrega aquí el link del repositorio si lo tienes público -->
 
 ### Registro de Baches en CDMX
 Aplicación para el registro y consulta de la ubicación de baches en la CDMX:
 - **Tecnologías**: Java y Spring Boot para el backend, con servicios RESTful para el flujo de datos en tiempo real.
 - **Objetivo**: Mejorar la visibilidad y seguimiento de incidencias en la vía pública.
-- [Repositorio del proyecto](#)
+- [Repositorio del proyecto](https://github.com/trujisxd1/Vialiapp)
 
 ### Sistema de Gestión de Vacaciones
 Aplicación para gestionar las vacaciones de los empleados:
 - **Backend**: API RESTful en Java y Spring Boot.
 - **Frontend**: Angular para una experiencia interactiva.
-- [Repositorio del proyecto](#)
+- [Repositorio del proyecto](https://github.com/trujisxd1/GestionDeVacaciones)
 
 ---
 
