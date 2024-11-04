@@ -34,7 +34,7 @@ Aplicación para gestionar las vacaciones de los empleados:
 ---
 
 ## 📫 Contacto
-- **LinkedIn**: [https://www.linkedin.com/in/gustavo-martinez-b66495265/](#)
+-- **LinkedIn**: [Gustavo Martínez](https://www.linkedin.com/in/gustavo-martinez-b66495265/)
 - **Correo**: gutamvol262@gmail.com
 
 ---
